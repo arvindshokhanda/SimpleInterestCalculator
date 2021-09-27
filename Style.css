@@ -1,0 +1,37 @@
+#heading
+{
+  color: grey;
+  text-align: center;
+  font-size: 3em
+  }
+  #form-center {
+	justify-content: center;
+  background-color: white;
+    
+}
+#output
+{
+  text-align: center;
+  
+}
+#bd{
+  background-color: black; 
+  color: white;
+}
+fieldset{
+  background: white;
+    color: black;
+    border-radius: 25px;
+}
+form { 
+  margin: 0 auto; 
+  width:600px;
+  text-align: center;
+  margin-top: 2em;
+  
+  
+  }
+  footer{
+    text-align: left;
+  }
+ 
